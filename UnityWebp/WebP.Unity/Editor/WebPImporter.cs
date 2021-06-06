@@ -3,6 +3,8 @@ using System.IO;
 using UnityEngine;
 using UnityEditor.AssetImporters;
 
+using SimpleJSON;
+
 namespace WebP.Unity
 {
     [ScriptedImporter(1, "webp")]
