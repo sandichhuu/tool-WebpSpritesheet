@@ -14,7 +14,7 @@ allow unsafe code (Config Unity build setting)
 
 [1]: Download [SpriteSheetPacker] from [https://amakaseev.github.io/sprite-sheet-packer/]
 
-[2]: Import this project as subproject.
+[2]: Import this project as submodule.
 
 [3]: Open [SpriteSheetPacker], next [Add Sprite], then config like image below, final [Publish sprite sheet]
 
