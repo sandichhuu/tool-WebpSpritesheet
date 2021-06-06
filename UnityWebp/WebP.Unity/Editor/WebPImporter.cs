@@ -5,8 +5,6 @@ using UnityEditor.AssetImporters;
 
 namespace WebP.Unity
 {
-    using WebP_SimpleJSON;
-
     [ScriptedImporter(1, "webp")]
     public class WebPImporter : ScriptedImporter
     {
