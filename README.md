@@ -2,7 +2,15 @@
 
 Webp file export from [SpriteSheetPacker] to unity sprite.
 
-Usage:
+# Require: 
+
+Unity 2017 and above.
+
+.NET 4.x (Config Unity build setting)
+
+allow unsafe code (Config Unity build setting)
+
+# Usage:
 
 [1]: Download [SpriteSheetPacker] from [https://amakaseev.github.io/sprite-sheet-packer/]
 
