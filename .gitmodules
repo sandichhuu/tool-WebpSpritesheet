@@ -1,0 +1,3 @@
+[submodule "UnityWebp/SubModules/SimpleJSON"]
+	path = UnityWebp/SubModules/SimpleJSON
+	url = https://github.com/Bunny83/SimpleJSON.git
